@@ -6,7 +6,7 @@
 ### _Sou estudante de Ciência da Computação e entusiasta da tecnologia._
 
 ### 🚀 Meu Interesse pela Programação
-Desde cedo, sempre tive curiosidade sobre como a tecnologia funciona. O que parecia "mágico" para muitos, para mim era um quebra-cabeça que eu queria entender. Meu primeiro contato real com a computação veio da curiosidade sobre como os sistemas funcionavam e como tudo aquilo ganhava vida na tela. Isso me levou a explorar lógica de programação, desenvolvimento e a construção de software.
+> Desde cedo, sempre tive curiosidade sobre como a tecnologia funciona. O que parecia "mágico" para muitos, para mim era um quebra-cabeça que eu queria entender. Meu primeiro contato real com a computação veio da curiosidade sobre como os sistemas funcionavam e como tudo aquilo ganhava vida na tela. Isso me levou a explorar lógica de programação, desenvolvimento e a construção de software.
 
  - 💡 Hoje, estou cursando Ciência da Computação e aprofundando meus conhecimentos na área. Gosto de resolver problemas e criar soluções que tornam a tecnologia mais acessível e eficiente.
 
